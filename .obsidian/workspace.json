@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-22.md",
+                "file": "주식 원칙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-22"
+              "title": "주식 원칙"
             }
           }
         ],
@@ -217,8 +217,8 @@
   },
   "active": "db1c3a0b35f8d0b6",
   "lastOpenFiles": [
-    "01-20.md",
     "01-22.md",
+    "01-20.md",
     "주식 원칙.md",
     "트레이딩뷰 Webhook Alert.md",
     "01-15.md",
