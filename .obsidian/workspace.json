@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "01-26 종가 베팅"
             }
+          },
+          {
+            "id": "2c492f10984d890e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-26 종가 베팅.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-26 종가 베팅"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +201,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8b6d7229a669d302",
+  "active": "06efb77dd86826c7",
   "lastOpenFiles": [
-    "주식 원칙.md",
     "01-26 종가 베팅.md",
+    "conflict-files-obsidian-git.md",
+    "01-23.md",
+    "01-22.md",
+    "01-21.md",
+    "01-20.md",
+    "01-15.md",
+    "주식 원칙.md",
     "01-14.md",
     "attatchment/Pasted image 20250114152117.png",
     "attatchment",
@@ -200,7 +220,6 @@
     "조건검색식.md",
     "시장에서 살아남는 실전 추세매매기법(토마스 카).md",
     "부자회사원",
-    "conflict-files-obsidian-git.md",
     "기대효과 2.md",
     "기대효과 수정.md",
     "기대효과.md",
@@ -221,11 +240,6 @@
     "공영주차장연계예약 및 결제 서비스 1.xlsx",
     "0. 제안서 작성 참고자료/주차장 단위기능.md",
     "0. 제안서 작성 참고자료/FP/공영 주차장 연계 예약 및 결제 서비스.md",
-    "0. 제안서 작성 참고자료/단위기능 설명.md",
-    "Scrap by Omnivore/'공영주차장 통합주차정보 시스템' 수원시 최우수 행정사례 선정.md",
-    "0. 제안서 작성 참고자료/FP/공유 모빌리티.md",
-    "공영주차장연계예약 및 결제 서비스.xlsx",
-    "0. 제안서 작성 참고자료/FP/공연 및 스포츠 이벤트 예매_결제.md",
-    "공영 주차장 연계 예약 및 결제 서비스.md"
+    "공영주차장연계예약 및 결제 서비스.xlsx"
   ]
 }
