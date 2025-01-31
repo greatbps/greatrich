@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "b7053b20aae450cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "e0b689e1bd5bb528",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -205,17 +218,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "da56d153a5196b3a",
+  "active": "b7053b20aae450cc",
   "lastOpenFiles": [
     "01-30 차트 설정 및 종목 발굴 프로세스.md",
     "01-26 종가 베팅.md",
