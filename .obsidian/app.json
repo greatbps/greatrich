@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "attatchment",
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false
 }
