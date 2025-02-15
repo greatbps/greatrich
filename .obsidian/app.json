@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "attachmentFolderPath": "attatchment",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }
