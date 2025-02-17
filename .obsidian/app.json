@@ -3,5 +3,6 @@
   "attachmentFolderPath": "attatchment",
   "promptDelete": false,
   "spellcheck": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
