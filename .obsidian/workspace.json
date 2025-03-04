@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ada938ead943db31",
+        "id": "ac7a144664806532",
         "type": "tabs",
         "children": [
           {
-            "id": "369f720d2ff74a73",
+            "id": "f18d3a7a2c6fe8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "03-04 한 달 3,000만원 수익으로 검증된 확률 높은 매매기법"
-            }
-          },
-          {
-            "id": "37a285b04eba6094",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
             }
           }
         ]
@@ -183,12 +173,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "369f720d2ff74a73",
+  "active": "f18d3a7a2c6fe8ee",
   "lastOpenFiles": [
+    "03-04 한 달 3,000만원 수익으로 검증된 확률 높은 매매기법.md",
     "02-25 스윙매매  유튜브 종가매매 기법 총정리.md",
     "01-30 차트 설정 및 종목 발굴 프로세스.md",
     "01-26 종가 베팅.md",
-    "03-04 한 달 3,000만원 수익으로 검증된 확률 높은 매매기법.md",
     "attatchment/Pasted image 20250304141309.png",
     "attatchment/Pasted image 20250304134643.png",
     "attatchment/Pasted image 20250304134146.png",
