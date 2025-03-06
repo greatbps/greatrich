@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "02-25 스윙매매  유튜브 종가매매 기법 총정리"
             }
+          },
+          {
+            "id": "7fb60b3e79da0d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-15"
+            }
+          },
+          {
+            "id": "27831042c091bd38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,22 +214,23 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8a1cb962ec21df91",
+  "active": "27831042c091bd38",
   "lastOpenFiles": [
+    "01-20.md",
+    "01-15.md",
+    "01-14.md",
+    "01-26 종가 베팅.md",
+    "03-06 시간 외 단일가 해석.md",
+    "02-25 스윙매매  유튜브 종가매매 기법 총정리.md",
     "03-04 한 달 3,000만원 수익으로 검증된 확률 높은 매매기법.md",
     "02-26 빅트레이더의 주도주 매매법.md",
     "conflict-files-obsidian-git.md",
-    "01-26 종가 베팅.md",
     "attatchment/Pasted image 20250304141309.png",
     "attatchment/Pasted image 20250304134643.png",
     "attatchment/Pasted image 20250304134146.png",
     "attatchment/Pasted image 20250304132139.png",
     "01-22.md",
     "01-21.md",
-    "01-20.md",
-    "01-15.md",
-    "01-14.md",
-    "02-25 스윙매매  유튜브 종가매매 기법 총정리.md",
     "attatchment/Pasted image 20250226140805.png",
     "attatchment/Pasted image 20250226134028.png",
     "attatchment/Pasted image 20250226133940.png",
@@ -226,7 +253,6 @@
     "02-06 돈을 부르는 매매의 기술.md",
     "02-04 한번의 매매로 4천만원 수익내는 종가매매.md",
     "02-02 창원개미 종가매매 종목선정.md",
-    "02-02 배당주 옥스포드 레인 캐피탈 등.md",
     "위임장_이준한.hwp",
     "위임장.hwp",
     "02-06",
