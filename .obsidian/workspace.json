@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5055274963379,
-    "collapsed": true
+    "width": 222.5055274963379
   },
   "right": {
     "id": "f80d5119fca4eb95",
@@ -203,7 +202,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "62d655ffe2756682",
+  "active": "06efb77dd86826c7",
   "lastOpenFiles": [
     "04-03.md",
     "03-28 라르고 심화과정 실전단타기법.md",
