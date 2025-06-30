@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "03-07 수급 단타왕"
             }
+          },
+          {
+            "id": "ca935430a5c807fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "1a5c1bc03bc71220",
+  "active": "ca935430a5c807fe",
   "lastOpenFiles": [
     "attatchment/Pasted image 20250307110453.png",
     "attatchment/Pasted image 20250307105717.png",
